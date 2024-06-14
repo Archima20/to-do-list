@@ -1,8 +1,8 @@
-# :memo:To-do List
+# :memo: To-do List
 To-do list allows us to save our daily tasks. 
-With a simple click we can read, add, amend and delete them.   
+With a simple click, we can read, add, amend, and delete them. 
 
-## :iphone:Mobile Graphic reference
+## :iPhone: Mobile Graphic reference
 ​
 ![Mobile](https://i.postimg.cc/4NC5T1Y3/todo-phone-fac.png)
 ​
